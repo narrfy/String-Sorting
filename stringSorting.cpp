@@ -3,7 +3,7 @@
 # Date Started: 3/27/2024
 # Date Finished: 3/28/2024
 # Time Spent (dd:hh:mm): 00:00:37
-# Goal: The goal of this is to use a basic understading of c++ to make multiple funciton to print and sort an array while considering runtime
+# Goal: The goal of this is to use a basic understanding of C++ to make multiple function to print and sort an array while considering runtime.
 */
 
 #include <iostream>
